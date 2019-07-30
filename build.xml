@@ -236,6 +236,7 @@ xmlns:cs="antlib:com.puppycrawl.tools.checkstyle">
     <property name="sources-jar" value="${dist.maven.dir}/${final.name}-sources.jar"/>
     <property name="javadoc-jar" value="${dist.maven.dir}/${final.name}-javadoc.jar"/>
 
+
     <!-- ====================================================== -->
     <!-- Macro definitions                                      -->
     <!-- ====================================================== -->
